@@ -55,8 +55,8 @@ The project is built using Gradio, a powerful tool for building machine learning
 
 2. **Clone the Repository**
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/aiforhumans/Chat_roleplay
+   cd Chat_roleplay
    ```
 
 3. **Install Dependencies**
@@ -134,7 +134,7 @@ The chat functionality is integrated with a local language model hosted via LM S
 ## Project Structure
 
 ```bash
-<repository_name>/
+Chat_roleplay/
 ├── app.py             # Main application file
 ├── model_info.py      # Fetches available models from the API
 ├── char.py            # Handles loading and saving character information
@@ -173,6 +173,3 @@ This project is licensed under the MIT License.
 - [LM Studio](https://lmstudio.com) for the local language model API support.
 
 Feel free to contribute or raise issues if you find bugs or have suggestions for new features.
-
-## Contact
-For any inquiries or issues, please contact [your_email@example.com].
