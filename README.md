@@ -1,7 +1,5 @@
 # Chat Application with Character Customization
 
-![Chat Application]
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 
 This project is a chat application built using [Gradio](https://gradio.app/), allowing for interactive conversations with customizable character personalities. The app leverages a local language model hosted via LM Studio's API. Users can define character details, user information, and adjust settings to customize the interaction dynamics.
